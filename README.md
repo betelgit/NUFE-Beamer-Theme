@@ -1,5 +1,5 @@
 # NUFE-Beamer-Theme
-A NUFE Beamer Theme modified from the THU Beamer Theme
+A NUFE Beamer Theme modified from the THU Beamer Theme (南京财经大学 LaTex 幻灯片模板)
 ## 编译环境
 
 * `Win10` + `TeX Live 2022`
